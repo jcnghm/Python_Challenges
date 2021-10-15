@@ -9,3 +9,5 @@
 - [Cow Bull Number Guesser](https://github.com/jcnghm/Python_Challenges/blob/master/cow_bull.py)
 - [Sudoku Validator](https://github.com/jcnghm/Python_Challenges/blob/master/sudoku_validator.py)
 - [Millionith Fibonacci Number](https://github.com/jcnghm/Python_Challenges/blob/master/millionith_fib_num.py)
+- [Isogram Checker](https://github.com/jcnghm/Python_Challenges/blob/master/isogram_check.py)
+- [Unique in Order](https://github.com/jcnghm/Python_Challenges/blob/master/unique_in_order.py)
