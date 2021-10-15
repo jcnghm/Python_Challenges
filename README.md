@@ -7,3 +7,4 @@
 - [Fibonacci Numbers](https://github.com/jcnghm/Python_Challenges/blob/master/fib_nums.py)
 - [Webpage Decoder](https://github.com/jcnghm/Python_Challenges/blob/master/decode_webpage.py)
 - [Cow Bull Number Guesser](https://github.com/jcnghm/Python_Challenges/blob/master/cow_bull.py)
+- [Sudoku Validator](https://github.com/jcnghm/Python_Challenges/blob/master/sudoku_validator.py)
