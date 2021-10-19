@@ -13,3 +13,4 @@
 - [Unique in Order](https://github.com/jcnghm/Python_Challenges/blob/master/unique_in_order.py)
 - [Dubstep Problem](https://github.com/jcnghm/Python_Challenges/blob/master/dubstep.py)
 - [Alphabet Position](https://github.com/jcnghm/Python_Challenges/blob/master/alphabet_position.py)
+- [Card Deck](https://github.com/jcnghm/Python_Challenges/blob/master/cardDeck.py)
