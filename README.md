@@ -16,3 +16,4 @@
 - [Card Deck](https://github.com/jcnghm/Python_Challenges/blob/master/cardDeck.py)
 - [Interview Example Question](https://github.com/jcnghm/Python_Challenges/blob/master/InterviewQuestion.py)
 - [Anagrams Testing](https://github.com/jcnghm/Python_Challenges/blob/master/anagrams.py)
+- [Protein Synthesis Interview Question](https://github.com/jcnghm/Python_Challenges/blob/master/protein_synthesis.py)
