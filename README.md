@@ -18,3 +18,5 @@
 - [Anagrams Testing](https://github.com/jcnghm/Python_Challenges/blob/master/anagrams.py)
 - [Protein Synthesis Interview Question](https://github.com/jcnghm/Python_Challenges/blob/master/protein_synthesis.py)
 - [DNA Strand Exercise](https://github.com/jcnghm/Python_Challenges/blob/master/dna_strand.py)
+- [Whiteboards](https://github.com/jcnghm/Python_Challenges/blob/master/whiteboards.py)
+- [CT Prework Questions](https://github.com/jcnghm/Python_Challenges/blob/master/prework.py)
