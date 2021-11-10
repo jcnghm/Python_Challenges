@@ -1,5 +1,6 @@
 import random
-members = ["bob", 'josh', 'felicia', 'sally', 'jon', 'melinda', 'evan', 'madi', 'ted', 'matt', 'johan', 'zach']
+students = ["William", "Asher", "John", "Alex", "Allan", 
+            "Shouwang", "Samantha", "Iwona", "Matias", "Christopher"]
 
 def randomRoom(list):
     room_1 = []
@@ -33,6 +34,6 @@ def randomRoom(list):
     print(room_3)
     print(room_4)
 
-randomRoom(members)
+randomRoom(students)
 
 

@@ -20,3 +20,4 @@
 - [DNA Strand Exercise](https://github.com/jcnghm/Python_Challenges/blob/master/dna_strand.py)
 - [Whiteboards](https://github.com/jcnghm/Python_Challenges/blob/master/whiteboards.py)
 - [CT Prework Questions](https://github.com/jcnghm/Python_Challenges/blob/master/prework.py)
+- [Tribonacci](https://github.com/jcnghm/Python_Challenges/blob/master/tribonacci.py)
