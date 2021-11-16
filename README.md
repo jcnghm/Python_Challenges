@@ -21,3 +21,4 @@
 - [Whiteboards](https://github.com/jcnghm/Python_Challenges/blob/master/whiteboards.py)
 - [CT Prework Questions](https://github.com/jcnghm/Python_Challenges/blob/master/prework.py)
 - [Tribonacci](https://github.com/jcnghm/Python_Challenges/blob/master/tribonacci.py)
+- [OOP Two Fighters](https://github.com/jcnghm/Python_Challenges/blob/master/two_fighters_oop.py)
