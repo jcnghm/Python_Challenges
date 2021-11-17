@@ -22,3 +22,4 @@
 - [CT Prework Questions](https://github.com/jcnghm/Python_Challenges/blob/master/prework.py)
 - [Tribonacci](https://github.com/jcnghm/Python_Challenges/blob/master/tribonacci.py)
 - [OOP Two Fighters](https://github.com/jcnghm/Python_Challenges/blob/master/two_fighters_oop.py)
+- [Arithmatic Progression](https://github.com/jcnghm/Python_Challenges/blob/master/arithmatic_prog_missing_num.py)
