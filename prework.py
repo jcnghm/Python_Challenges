@@ -47,30 +47,30 @@
 
 # is_leap_year2(test_year)
 
-def leapyr(n):
-    if n % 4 == 0 and n % 100 != 0:
-        if n % 400 == 0:
-            return True
-    elif n % 4 != 0:
-        return False
-    return True
-print(leapyr(1968))
+# def leapyr(n):
+#     if n % 4 == 0 and n % 100 != 0:
+#         if n % 400 == 0:
+#             return True
+#     elif n % 4 != 0:
+#         return False
+#     return True
+# print(leapyr(1968))
     
 
 # Question 5 examples
 
 
-# def is_consecutive(a_list):
-#     i = 0
-#     status = True
-#     while i < len(a_list) - 1:
-#        if a_list[i] + 1 == a_list[i + 1]:
-#            print(a_list[i] + 1)
-#            print(a_list[i+1])
-#            i += 1
-#        else:
-#            status = False
-#            break
-#     return status
-# print(is_consecutive([1, 2, 3, 4, 5, 6]))
+def is_consecutive(a_list):
+    i = 0
+    status = True
+    while i < len(a_list) - 1:
+       if a_list[i] + 1 == a_list[i + 1]:
+           print(a_list[i] + 1)
+           print(a_list[i+1])
+           i += 1
+       else:
+           status = False
+           break
+    return status
+print(is_consecutive([1, 2, 3, 4, 5, 6]))
 

@@ -23,3 +23,5 @@
 - [Tribonacci](https://github.com/jcnghm/Python_Challenges/blob/master/tribonacci.py)
 - [OOP Two Fighters](https://github.com/jcnghm/Python_Challenges/blob/master/two_fighters_oop.py)
 - [Arithmatic Progression](https://github.com/jcnghm/Python_Challenges/blob/master/arithmatic_prog_missing_num.py)
+- [Sort Array by Word Length](https://github.com/jcnghm/Python_Challenges/blob/master/sort_array_str_len.py)
+- [Find Nth Catalan Number](https://github.com/jcnghm/Python_Challenges/blob/master/nth_catalan_number.py)
