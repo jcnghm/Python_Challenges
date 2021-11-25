@@ -56,7 +56,9 @@ class LinkedList():
         while(temp):
             print(temp.value)
             temp = temp.next
+
             
+# Instanciate example:
 weekdays_links = LinkedList()
 
 # Insert a new day into the list
