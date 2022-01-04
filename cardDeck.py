@@ -14,18 +14,19 @@ class Card(object):
         return self.show()
         
     def show(self):
-        if self.value == 1:
-            val = "Ace"
-        elif self.value == 11:
-            val = "Jack"
-        elif self.value == 12:
-            val = "Queen"
-        elif self.value == 13:
-            val = "King"
-        else:
-            val = self.value
+        match self.value:
+            case 1:
+                val = "Ace"
+            case 11:
+                val = "Jack"
+            case 12:
+                val = "Queen"
+            case 13:
+                val = "King"
+            case _:
+                val = self.value
 
-        return "{} of {}".format(val, self.suit)
+        return f"{val} of {self.suit}"
 
 
 class Deck(object):
@@ -69,7 +70,7 @@ class Player(object):
         self.hand = []
 
     def sayHello(self):
-        print("Hi! My name is {}".format(self.name))
+        print(f"Hi! My name is {self.name}")
         return self
 
     # Draw n number of cards from a deck
@@ -85,7 +86,7 @@ class Player(object):
 
     # Display all the cards in the players hand
     def showHand(self):
-        print("{}'s hand: {}".format(self.name, self.hand))
+        print(f"{self.name}'s hand: {self.hand}")
         return self
 
     def discard(self):
