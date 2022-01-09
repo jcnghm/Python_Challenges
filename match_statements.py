@@ -1,6 +1,5 @@
 def arithmetic(a, b, operator):
-    math = operator
-    match math:
+    match operator:
         case 'add':
             return a + b
         case 'subtract':
