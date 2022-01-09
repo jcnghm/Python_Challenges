@@ -27,8 +27,7 @@ class Card(object):
                 val = self.value
 
         return f"{val} of {self.suit}"
-
-
+        
 class Deck(object):
     def __init__(self):
         self.cards = []
